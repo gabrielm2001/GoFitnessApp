@@ -1,0 +1,8 @@
+.idea/
+main
+coverage.out
+.scannerwork/
+.vscode/
+.terraform*
+terraform.tfstate.d
+cmd/__debug_bin
